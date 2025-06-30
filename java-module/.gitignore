@@ -6,7 +6,7 @@ build/
 
 ### IntelliJ IDEA ###
 *.iws
-*.iml
+
 *.ipr
 out/
 !**/src/main/**/out/

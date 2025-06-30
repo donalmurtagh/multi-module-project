@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../biome-web-module/biome-web-module.iml" filepath="$PROJECT_DIR$/../biome-web-module/biome-web-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-module.iml" filepath="$PROJECT_DIR$/.idea/modules/java-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-module.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-module.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-module.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-module.test.iml" />
